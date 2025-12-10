@@ -16,7 +16,7 @@
 ### 📂 Projects
 🔐 **Python Login System Project**  
 A basic authentication system using Python file handling  
-👉 Repo: https://github.com/shreyas444777-wq/Python-Login-System-Project
+👉 Repo: https://github.com/sheryas444777-wq/Python-Login-System-Project
 
 ---
 
